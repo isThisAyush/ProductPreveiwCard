@@ -1,0 +1,68 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+    padding: 5% 8%;
+    
+}
+
+
+
+.card {
+    margin: 10% auto; /* Added */
+    float: none; /* Added */
+    
+}
+
+.card-img{
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+h5{
+     font-family: 'Montserrat'; 
+    color: hsl(228, 12%, 48%);
+    font-size: 10px;
+    letter-spacing: 3px;
+   
+}
+
+h3{
+    font-family: 'Fraunces';
+    font-weight: 700;
+
+}
+
+p{
+    font-family: 'Montserrat';
+    color: hsl(228, 12%, 48%) ;
+    font-size: 14px;
+
+}
+
+.price-tag-1{
+    color: hsl(158, 36%, 37%);
+}
+
+span{
+    font-family: 'Fraunces';
+    color:hsl(228, 12%, 48%) ;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 5% 1% 5% 7%;
+    text-decoration: line-through ;
+    display: inline-block;
+}
+
+.btn-primary{
+    background-color:  hsl(158, 36%, 37%) !important;
+    
+}
+
+
+.btn-text{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    text-decoration: none;
+}
